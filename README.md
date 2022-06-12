@@ -6,6 +6,6 @@
 ### Get Started
 1) Copy **esx_speedometer** to your FXServer resource folder
 2) Add **start esx_speedometer** to your **sever.cfg** file
-3) Start your server or resource
+3) Restart your server
 
  
